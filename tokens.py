@@ -1,0 +1,2 @@
+telegrambot = 'botid'
+adminchatid = [adminid]
